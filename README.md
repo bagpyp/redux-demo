@@ -1,11 +1,11 @@
-# Some piece of shit
+# Using Redux
 
 Look at this
 
-![]()
+![a couple files](img/pieces.png)
 
-Here's a cool thing
+I installed and used redux
 
 ```bash
-
+npm install @reduxjs/toolkit react-redux
 ```
